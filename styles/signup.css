@@ -1,0 +1,41 @@
+html,
+body {
+  
+  height: 100%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: white;
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+
+.giris-poz1{
+  position: relative;
+  top: 10px;
+  left: -60px;
+}
+
+.giris-poz2{
+  position: relative;
+  top: 10px;
+  left: 60px;
+}
+
+.a-logo{
+  display:block;
+  text-decoration:none !important;
+  border-bottom:none;
+}

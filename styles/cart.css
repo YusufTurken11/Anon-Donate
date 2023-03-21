@@ -1,0 +1,22 @@
+.item-count-input{
+    width: 50px;
+    text-align: center;
+}
+
+
+td{
+    vertical-align: middle!important;
+}
+
+tfoot th{
+    padding: 20px!important;
+    background-color: #dfdfdf;
+}
+
+table{
+    box-shadow: 0 0 8px rgba(5,5,5,.3);
+}
+
+.thead-th{
+    background-color: black;
+}

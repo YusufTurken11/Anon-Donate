@@ -1,0 +1,46 @@
+.button5 {
+    background-color: white;
+    padding: 16px 32px; 
+    transition-duration: 0.4s;
+    margin: 4px 10px;
+    color: black;
+    border: 2px solid #555555;
+  }
+  
+  .button5:hover {
+    background-color: #555555;
+    color: white;
+  }
+
+  .button6 {
+    background-color: whitesmoke;
+    padding: 16px 32px; 
+    transition-duration: 0.4s;
+    margin: 4px 10px;
+    color: black;
+    border: 2px solid #555555;
+  }
+
+  .button6:hover {
+    background-color: #555555;
+    color: white;
+  }
+
+  .button7 {
+    background-color: whitesmoke;
+    padding: 16px 32px; 
+    transition-duration: 0.4s;
+    margin: 4px 10px;
+    color: black;
+    border: 2px solid #555555;
+  }
+
+  .button7:hover {
+    background-color: #555555;
+    color: white;
+  }
+
+
+.a-altcizgiyok{
+    text-decoration: none;
+}

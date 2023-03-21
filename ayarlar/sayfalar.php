@@ -1,0 +1,22 @@
+<?php
+$page[0] = 'main.php';
+$page[1] = 'contact.php';
+$page[2] = 'hakkında.php';
+$page[3] = 'loginliwiro.php';
+$page[4] = 'signupliwiro.php';
+$page[5] = 'logout.php';
+$page[6] = 'cart.php';
+$page[7] = 'kategoriler/afad.php';
+$page[8] = 'wallet.php';
+$page[9] = 'sss.php';
+$page[10] = 'product.php';
+$page[11] = 'kategoriler/kızılay.php';
+$page[12] = 'kategoriler/lösev.php';
+$page[13] = 'kategoriler/diger.php';
+$page[16] = 'mesajlar.php';
+$page[17] = 'siparis.php';
+$page[18] = 'admin/admin.php';
+$page[14] = 'admin/admin_products.php';
+$page[15] = 'admin/admin_orders.php';
+$page[19] = 'admin/admin_messages.php';
+$page[20] = 'admin/admin_sss.php';
